@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BWW-Rechner</string>
+    <string name="input_placeholder">Text</string>
+</resources>
